@@ -8,7 +8,7 @@ export default function Contact() {
           a project idea, or just want to say hi — my inbox is open.
         </p>
         <a
-          href="mailto:your@email.com"
+          href="mailto:dasanbelquin@gmail.com"
           className="inline-block px-8 py-3 bg-indigo-600 hover:bg-indigo-500 text-white rounded-lg font-medium transition-colors mb-12"
         >
           Say Hello
