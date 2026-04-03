@@ -5,6 +5,11 @@ export default function Navbar() {
         <span className="font-bold text-lg text-white">David Beltran</span>
         <ul className="flex gap-6 text-sm text-gray-400">
           <li>
+            <a href="#about" className="hover:text-white transition-colors">
+              About
+            </a>
+          </li>
+          <li>
             <a href="#projects" className="hover:text-white transition-colors">
               Projects
             </a>
